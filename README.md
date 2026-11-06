@@ -13,8 +13,8 @@ Designed specifically for developers transitioning from **Cardano (eUTXO)**, **E
 - **Cellbase Awareness**: Detects and explains consensus-defined null outpoints (`0x000...000:0xffffffff`) and newly minted block rewards.
 - **Script Inspector & Registry**: Identifies standard CKB system scripts (SECP256K1/blake160 single-sig, SECP256K1 multisig, Nervos DAO, Type ID, Omnilock, AnyoneCanPay, xUDT, Spore) and explains the structural roles of `code_hash`, `hash_type`, and `args`.
 - **Occupied Capacity (State Rent) Calculator**: Automatically computes the exact byte size and minimum CKB required to store a cell on-chain (`8 bytes capacity + data length + script sizes`).
-- **Developer-Grade UI**: Dark theme dashboard with Nervos teal accents, real-time input format validation, quick 1-click testnet examples, copy-to-clipboard controls, and zero wallet or private key requirements.
-- **Integrated Educational Mode**: Contextual side-by-side comparisons of the CKB Cell Model vs Ethereum Account Model and Bitcoin UTXO, with links to official Nervos RFCs and docs.
+- **Focused Web3 Interface**: Dark theme with mint accents, a search-first home screen, a three-metric transaction summary, expandable technical details, and separate Overview and Cells views. Mobile users get readable cell lists; desktop users get an interactive graph.
+- **Learn When You Need It**: A dedicated Learn view covers the CKB Cell Model vs Ethereum and Bitcoin, with links to official Nervos RFCs and docs. Script explanations open on demand, without crowding transaction results.
 
 ---
 
