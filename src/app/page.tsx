@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback, useRef } from "react";
+import Image from "next/image";
 import { Navbar } from "@/components/Navbar";
 import { SearchBar } from "@/components/SearchBar";
 import { TransactionOverview } from "@/components/TransactionOverview";
@@ -145,7 +146,7 @@ export default function HomePage() {
       </main>
 
       <footer className="site-footer"><div className="site-container footer-inner">
-        <div className="flex items-center gap-2"><Box size={14} /><span>Built for the curious. Powered by Nervos.</span></div>
+        <div className="flex items-center gap-2"><Image src="/brand/cell-inspector-mark.svg" alt="" width={16} height={16} /><span>Built for the curious. Powered by Nervos.</span></div>
         <div className="footer-right">{tipBlock && <span className="tip-label">Block #{parseInt(tipBlock, 16).toLocaleString()}</span>}<a href="https://github.com/nervosnetwork/ckb" target="_blank" rel="noopener noreferrer">Nervos CKB <ArrowUpRight size={12} /></a></div>
       </div></footer>
 

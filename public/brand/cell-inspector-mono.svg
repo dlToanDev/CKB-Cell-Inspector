@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Cell Inspector — monochrome</title>
+  <path d="M6 18 32 3 58 18 47 24.5 32 15.8 17 24.5v16.8L32 50l15-8.7L58 47 32 62 6 47Z" fill="currentColor"/>
+  <path d="m37 30 7-4 7 4v8l-7 4-7-4Z" fill="currentColor"/>
+</svg>

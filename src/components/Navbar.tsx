@@ -1,6 +1,7 @@
 "use client";
 
-import { ArrowUpRight, Box, ChevronDown, BookOpen, Search } from "lucide-react";
+import Image from "next/image";
+import { ArrowUpRight, ChevronDown, BookOpen, Search } from "lucide-react";
 import { NetworkConfig } from "@/types/ckb";
 
 interface NavbarProps {
@@ -15,7 +16,7 @@ export function Navbar({ currentNetwork, onOpenSettings, guideOpen, onNavigate }
     <header className="site-header">
       <div className="site-container header-inner">
         <button type="button" className="brand" onClick={() => onNavigate("explorer")} aria-label="Cell Inspector home">
-          <span className="brand-mark"><Box size={23} strokeWidth={1.6} /></span>
+          <span className="brand-mark"><Image src="/brand/cell-inspector-mark.svg" alt="" width={36} height={36} /></span>
           <span>cell<span className="text-[var(--muted-foreground)]">inspector</span></span>
           <span className="brand-tag">CKB</span>
         </button>

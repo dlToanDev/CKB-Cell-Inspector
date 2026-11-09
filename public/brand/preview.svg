@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800"><rect width="1200" height="800" fill="#0C100E"/><rect x="32" y="32" width="1136" height="736" rx="20" fill="none" stroke="#263029"/><g font-family="Arial,Helvetica,sans-serif"><text x="80" y="91" font-size="12" letter-spacing="3" fill="#92A096">CELL INSPECTOR / BRAND MARK</text><text x="1120" y="91" text-anchor="end" font-size="12" letter-spacing="2" fill="#B2F0C1">NERVOS CKB</text><g transform="translate(470 162) scale(4)"><path d="M6 18 32 3 58 18 47 24.5 32 15.8 17 24.5Z" fill="#D7FFE4"/>
+  <path d="m6 18 11 6.5v16.8L32 50v12L6 47Z" fill="#B2F0C1"/>
+  <path d="m32 50 15-8.7L58 47 32 62Z" fill="#69B88D"/>
+  <path d="m37 30 7-4 7 4-7 4Z" fill="#D7FFE4"/>
+  <path d="m37 30 7 4v8l-7-4Z" fill="#B2F0C1"/>
+  <path d="m44 34 7-4v8l-7 4Z" fill="#69B88D"/>
+</g><g transform="translate(380 440)"><title>Cell Inspector</title><g transform="translate(8 8)"><path d="M6 18 32 3 58 18 47 24.5 32 15.8 17 24.5Z" fill="#D7FFE4"/>
+  <path d="m6 18 11 6.5v16.8L32 50v12L6 47Z" fill="#B2F0C1"/>
+  <path d="m32 50 15-8.7L58 47 32 62Z" fill="#69B88D"/>
+  <path d="m37 30 7-4 7 4-7 4Z" fill="#D7FFE4"/>
+  <path d="m37 30 7 4v8l-7-4Z" fill="#B2F0C1"/>
+  <path d="m44 34 7-4v8l-7 4Z" fill="#69B88D"/>
+</g><text x="90" y="50" font-family="Geist,Arial,Helvetica,sans-serif" font-size="35" font-weight="600" letter-spacing="-1.5" fill="#EDF2EE">cell<tspan fill="#92A096">inspector</tspan></text><rect x="365" y="26" width="48" height="24" rx="5" fill="none" stroke="#3A4B3E"/><text x="389" y="42" text-anchor="middle" font-family="monospace" font-size="11" letter-spacing="2" fill="#92A096">CKB</text></g><text x="600" y="562" text-anchor="middle" font-size="15" letter-spacing="1" fill="#92A096">Every cell. A clearer picture.</text><path d="M80 620H1120" stroke="#263029"/><text x="80" y="662" font-size="11" letter-spacing="2" fill="#92A096">OPEN C / ISOMETRIC CELL / CONNECTED STATE</text><g transform="translate(80 688) scale(.55)"><path d="M6 18 32 3 58 18 47 24.5 32 15.8 17 24.5Z" fill="#D7FFE4"/>
+  <path d="m6 18 11 6.5v16.8L32 50v12L6 47Z" fill="#B2F0C1"/>
+  <path d="m32 50 15-8.7L58 47 32 62Z" fill="#69B88D"/>
+  <path d="m37 30 7-4 7 4-7 4Z" fill="#D7FFE4"/>
+  <path d="m37 30 7 4v8l-7-4Z" fill="#B2F0C1"/>
+  <path d="m44 34 7-4v8l-7 4Z" fill="#69B88D"/>
+</g><g transform="translate(140 696) scale(.4)"><path d="M6 18 32 3 58 18 47 24.5 32 15.8 17 24.5Z" fill="#D7FFE4"/>
+  <path d="m6 18 11 6.5v16.8L32 50v12L6 47Z" fill="#B2F0C1"/>
+  <path d="m32 50 15-8.7L58 47 32 62Z" fill="#69B88D"/>
+  <path d="m37 30 7-4 7 4-7 4Z" fill="#D7FFE4"/>
+  <path d="m37 30 7 4v8l-7-4Z" fill="#B2F0C1"/>
+  <path d="m44 34 7-4v8l-7 4Z" fill="#69B88D"/>
+</g><g transform="translate(190 702) scale(.25)"><path d="M6 18 32 3 58 18 47 24.5 32 15.8 17 24.5Z" fill="#D7FFE4"/>
+  <path d="m6 18 11 6.5v16.8L32 50v12L6 47Z" fill="#B2F0C1"/>
+  <path d="m32 50 15-8.7L58 47 32 62Z" fill="#69B88D"/>
+  <path d="m37 30 7-4 7 4-7 4Z" fill="#D7FFE4"/>
+  <path d="m37 30 7 4v8l-7-4Z" fill="#B2F0C1"/>
+  <path d="m44 34 7-4v8l-7 4Z" fill="#69B88D"/>
+</g><rect x="844" y="686" width="76" height="30" rx="5" fill="#D7FFE4"/><rect x="932" y="686" width="76" height="30" rx="5" fill="#B2F0C1"/><rect x="1020" y="686" width="76" height="30" rx="5" fill="#69B88D"/><text x="882" y="738" text-anchor="middle" font-size="10" fill="#92A096">#D7FFE4</text><text x="970" y="738" text-anchor="middle" font-size="10" fill="#92A096">#B2F0C1</text><text x="1058" y="738" text-anchor="middle" font-size="10" fill="#92A096">#69B88D</text></g></svg>

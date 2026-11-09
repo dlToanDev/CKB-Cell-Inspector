@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>Cell Inspector</title>
+  <desc>An open isometric C surrounding an individual CKB cell.</desc>
+  <path d="M6 18 32 3 58 18 47 24.5 32 15.8 17 24.5Z" fill="#D7FFE4"/>
+  <path d="m6 18 11 6.5v16.8L32 50v12L6 47Z" fill="#B2F0C1"/>
+  <path d="m32 50 15-8.7L58 47 32 62Z" fill="#69B88D"/>
+  <path d="m37 30 7-4 7 4-7 4Z" fill="#D7FFE4"/>
+  <path d="m37 30 7 4v8l-7-4Z" fill="#B2F0C1"/>
+  <path d="m44 34 7-4v8l-7 4Z" fill="#69B88D"/>
+</svg>
